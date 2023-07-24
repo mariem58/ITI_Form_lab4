@@ -1,0 +1,28 @@
+table,
+th,
+td,
+tr{
+    border: 2px solid black;
+    padding: 5px;
+
+}
+span .btn-primary{
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 5px;
+}
+span .btn-danger{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(226, 8, 8);
+    border-radius: 5px;
+    padding: 5px;
+}
+.btn-close{
+    background-color:bisque;
+    padding: 5px;
+    
+    
+}
